@@ -3,4 +3,4 @@ An Android app I made to explore simple physics simulation. You can pick up a ba
 
 Built with Android Studio
 
-![](https://media.giphy.com/media/6cD4rWBlZg6B6cHv7N/giphy.gif)
+![](https://media.giphy.com/media/8g7N8D0xbtonDaw2CT/giphy.gif)
